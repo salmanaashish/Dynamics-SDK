@@ -1,0 +1,16 @@
+C:\Users\rocky\source\repos\DynamicsCrud\PluginDevelopment\obj\Debug\PluginDevelopment.csprojAssemblyReference.cache
+C:\Users\rocky\source\repos\DynamicsCrud\PluginDevelopment\obj\Debug\PluginDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\rocky\source\repos\DynamicsCrud\PluginDevelopment\bin\Debug\PluginDevelopment.exe.config
+C:\Users\rocky\source\repos\DynamicsCrud\PluginDevelopment\bin\Debug\PluginDevelopment.exe
+C:\Users\rocky\source\repos\DynamicsCrud\PluginDevelopment\bin\Debug\PluginDevelopment.pdb
+C:\Users\rocky\source\repos\DynamicsCrud\PluginDevelopment\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\rocky\source\repos\DynamicsCrud\PluginDevelopment\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\rocky\source\repos\DynamicsCrud\PluginDevelopment\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\rocky\source\repos\DynamicsCrud\PluginDevelopment\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\rocky\source\repos\DynamicsCrud\PluginDevelopment\obj\Debug\PluginDevelopment.csproj.CopyComplete
+C:\Users\rocky\source\repos\DynamicsCrud\PluginDevelopment\obj\Debug\PluginDevelopment.exe
+C:\Users\rocky\source\repos\DynamicsCrud\PluginDevelopment\obj\Debug\PluginDevelopment.pdb
+C:\Users\lenova\Desktop\New folder (5)\dynamicsSDK\Dynamics\PluginDevelopment\obj\Debug\PluginDevelopment.csprojAssemblyReference.cache
+C:\Users\lenova\Desktop\New folder (5)\dynamicsSDK\Dynamics\PluginDevelopment\obj\Debug\PluginDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\lenova\Desktop\New folder (5)\dynamicsSDK\Dynamics\PluginDevelopment\obj\Debug\PluginDevelopment.exe
+C:\Users\lenova\Desktop\New folder (5)\dynamicsSDK\Dynamics\PluginDevelopment\obj\Debug\PluginDevelopment.pdb

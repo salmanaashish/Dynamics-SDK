@@ -1,0 +1,29 @@
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\obj\Debug\DynamicsCrud.csprojAssemblyReference.cache
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\obj\Debug\DynamicsCrud.csproj.CoreCompileInputs.cache
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\DynamicsCrud.exe.config
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\DynamicsCrud.exe
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\DynamicsCrud.pdb
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\obj\Debug\DynamicsCrud.csproj.CopyComplete
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\obj\Debug\DynamicsCrud.exe
+C:\Users\rocky\source\repos\DynamicsCrud\DynamicsCrud\obj\Debug\DynamicsCrud.pdb
+C:\Users\lenova\Desktop\New folder (5)\dynamicsSDK\Dynamics\DynamicsCrud\obj\Debug\DynamicsCrud.csprojAssemblyReference.cache
+C:\Users\lenova\Desktop\New folder (5)\dynamicsSDK\Dynamics\DynamicsCrud\obj\Debug\DynamicsCrud.csproj.CoreCompileInputs.cache
+C:\Users\lenova\Desktop\New folder (5)\dynamicsSDK\Dynamics\DynamicsCrud\obj\Debug\DynamicsCrud.exe
+C:\Users\lenova\Desktop\New folder (5)\dynamicsSDK\Dynamics\DynamicsCrud\obj\Debug\DynamicsCrud.pdb

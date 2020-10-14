@@ -1,0 +1,18 @@
+C:\Users\rocky\source\repos\DynamicsCrud\Custom Workflow\obj\Debug\Custom Workflow.csprojAssemblyReference.cache
+C:\Users\rocky\source\repos\DynamicsCrud\Custom Workflow\obj\Debug\Custom Workflow.csproj.CoreCompileInputs.cache
+C:\Users\rocky\source\repos\DynamicsCrud\Custom Workflow\bin\Debug\Custom Workflow.exe.config
+C:\Users\rocky\source\repos\DynamicsCrud\Custom Workflow\bin\Debug\Custom Workflow.exe
+C:\Users\rocky\source\repos\DynamicsCrud\Custom Workflow\bin\Debug\Custom Workflow.pdb
+C:\Users\rocky\source\repos\DynamicsCrud\Custom Workflow\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\rocky\source\repos\DynamicsCrud\Custom Workflow\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\rocky\source\repos\DynamicsCrud\Custom Workflow\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\rocky\source\repos\DynamicsCrud\Custom Workflow\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\rocky\source\repos\DynamicsCrud\Custom Workflow\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\rocky\source\repos\DynamicsCrud\Custom Workflow\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\rocky\source\repos\DynamicsCrud\Custom Workflow\obj\Debug\Custom Workflow.csproj.CopyComplete
+C:\Users\rocky\source\repos\DynamicsCrud\Custom Workflow\obj\Debug\Custom Workflow.exe
+C:\Users\rocky\source\repos\DynamicsCrud\Custom Workflow\obj\Debug\Custom Workflow.pdb
+C:\Users\lenova\Desktop\New folder (5)\dynamicsSDK\Dynamics\Custom Workflow\obj\Debug\Custom Workflow.csprojAssemblyReference.cache
+C:\Users\lenova\Desktop\New folder (5)\dynamicsSDK\Dynamics\Custom Workflow\obj\Debug\Custom Workflow.csproj.CoreCompileInputs.cache
+C:\Users\lenova\Desktop\New folder (5)\dynamicsSDK\Dynamics\Custom Workflow\obj\Debug\Custom Workflow.exe
+C:\Users\lenova\Desktop\New folder (5)\dynamicsSDK\Dynamics\Custom Workflow\obj\Debug\Custom Workflow.pdb
