@@ -29,6 +29,31 @@ if (context.InputParameters.Contains("Target"))
 Entity entity = (Entity)context.InputParameters["Target"];
 try
 {
+//pipeline statges
+if (context.Stage == 20)//Pre Stage
+
+{
+
+//Do your logic
+
+}
+
+else if (context.Stage == 40) //Post Stage
+
+{
+
+//Do your logic
+
+}
+
+else if (context.Stage == 10) //Prevalidation
+
+{
+
+//Do your logic
+
+}
+
 
 // Create a task activity to follow up with the account customer in 7 days
 Entity followup = new Entity("task");
