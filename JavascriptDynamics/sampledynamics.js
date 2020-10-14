@@ -104,7 +104,6 @@ function GetOptionSetDataBaseValue(executionContext) {
     }
 }
 
-REPORT THIS AD
 
 //Get the Option Set text value
 function GetOptionSetTextValue(executionContext) {
